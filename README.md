@@ -27,7 +27,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/R41NH4RD/ChipView.git
+git clone https://github.com/Glimmer114514/ChipView.git
 cd ChipView
 
 # 安装依赖
@@ -121,8 +121,8 @@ ChipView/
 
 **R41NH4RD**
 
-- GitHub: [@R41NH4RD](https://github.com/R41NH4RD)
-- 项目地址: [https://github.com/R41NH4RD/ChipView](https://github.com/R41NH4RD/ChipView)
+- GitHub: [@R41NH4RD](https://github.com/Glimmer114514)
+- 项目地址: [https://github.com/Glimmer114514/ChipView](https://github.com/Glimmer114514/ChipView)
 
 ## 🙏 致谢
 
